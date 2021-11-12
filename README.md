@@ -12,3 +12,7 @@ Chelsea taat djfff fjldjf
 #Adding describle mieu taat
 
 Ahijfdjls
+
+#How to Contribute
+
+Please fork this repository
