@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Phung Van Phuc  phungvphuc1@gmail.com
 
 # THANKS
 
